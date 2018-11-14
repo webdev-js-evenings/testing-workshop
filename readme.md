@@ -12,7 +12,7 @@ Vysvětlíme základní motivace a paradigmata testování. Přejdeme k jednoduc
 ## Začněte
 
 0. [Anketa](https://goo.gl/forms/DGQre5fQ7wivjrsy2)
-1. [Unit testing, best practices](./unit-tests.md)
+1. [Unit testing, best practices](./unit-tests.md) ([slides](https://goo.gl/zEzvot))
 2. Component and integration testing, snapshot pros and cons
 3. E2E tests, automatization
 
