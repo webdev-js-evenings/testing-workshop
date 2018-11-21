@@ -1,0 +1,3 @@
+[submodule "hackprague"]
+	path = hackprague
+	url = https://github.com/jakubzitny/hackprague
